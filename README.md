@@ -9,7 +9,7 @@ This is a minimal React application built with Vite. It's a great starting point
 - Easy file structure
 
 ## 🛠 Future improvements 
-So far we need a more straightforward way of executing all the code as it can hard to organise.
+So far we need a more straightforward way of executing all the code as it can be hard to organise.
 
 ## 📦 Installation
 
