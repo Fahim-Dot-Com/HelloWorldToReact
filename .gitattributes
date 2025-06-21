@@ -1,0 +1,9 @@
+# Treat all text files as UTF-8
+* text=auto
+
+# Set line endings for JavaScript/React code
+*.js text eol=lf
+*.jsx text eol=lf
+*.json text eol=lf
+*.html text eol=lf
+*.css text eol=lf
