@@ -8,6 +8,9 @@ This is a minimal React application built with Vite. It's a great starting point
 - Fast Vite build
 - Easy file structure
 
+##🛠 Future improvements 
+So far we need a more straightforward way of executing all the code as it can hard to organise.
+
 ## 📦 Installation
 
 1. Clone the repository:
