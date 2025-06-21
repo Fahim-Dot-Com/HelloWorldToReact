@@ -1,5 +1,4 @@
-# HelloWorldToReact
-# 🌟 My Simple React App
+# 🌟 HelloWorldToReact 
 
 This is a minimal React application built with Vite. It's a great starting point for beginners learning React.
 
